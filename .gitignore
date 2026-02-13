@@ -43,9 +43,9 @@
 <body>
     <div class="heart">❤️</div>
     <h1>¿Quieres ser mi San Valentín?</h1>
-    <p>Hola [Nombre de la persona],</p>
-    <p>Desde el momento en que te conocí, supe que eras especial. ¿Me harías el honor de ser mi San Valentín este año? 💕</p>
-    <p>Con amor, [Tu nombre]</p>
+    <p>Hola Mi princesa </p>
+    <p>Desde el momento en que te conocí, supe que serías el amor de mi vida. ¿Me harías el honor de ser mi San Valentín este año? 💕</p>
+    <p>Con amor, Tu noviecito</p>
     <button onclick="alert('¡Sí! ¡Feliz San Valentín!')">Sí</button>
     <button id="noButton" onmouseover="moveButton()">No</button>
 
